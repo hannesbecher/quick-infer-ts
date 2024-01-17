@@ -1,0 +1,1 @@
+# quick-infer-ts
